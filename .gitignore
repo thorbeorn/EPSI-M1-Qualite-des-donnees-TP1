@@ -1,3 +1,5 @@
 .DS_Store
 .venv
 data_raw
+__pycache__
+.git
